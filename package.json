@@ -1,0 +1,12 @@
+{
+  "name": "practica-node-aa-aa",
+  "version": "0.5.0",
+  "description": "Generacion de fechas con dias en txt",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Andino (Xcrow)",
+  "license": "ISC"
+}
